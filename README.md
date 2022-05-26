@@ -8,10 +8,12 @@ sistemas distribúidos, diferenças entre Spark x MapReduce, até aplicações d
 modelos de Machine Learning.
 
 Conteúdo geral do curso:
-	- Spark DataFrame Basics
+- Spark DataFrame Basics
+
+- Machine Learning with Spark
+	(Linear Regression, Logistic Regression, Trees Methods, 
+	Clustering)
 	
-	- Machine Learning with Spark
-		(Linear Regression, Logistic Regression, Trees Methods, 
-		Clustering)
-	- Natural Language Processing
-	- Spark Streaming with Python
+- Natural Language Processing
+
+- Spark Streaming with Python
