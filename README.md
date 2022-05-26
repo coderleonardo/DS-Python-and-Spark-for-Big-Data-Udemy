@@ -17,3 +17,5 @@ Conteúdo geral do curso:
 - Natural Language Processing
 
 - Spark Streaming with Python
+
+![Certificado de conclusão](https://github.com/coderleonardo/DS-Python-and-Spark-for-Big-Data-Udemy/blob/main/Certificado.jpg)
